@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c74object name="tala~">
+  <metadatalist>
+    <metadata name="author">james bradbury</metadata>
+    <metadata name="tag">audio</metadata>
+  </metadatalist>
+  <methodlist>
+    <method name="message">
+      <digest>message input</digest>
+      <description>message input</description>
+    </method>
+  </methodlist>
+  <attributelist/>
+</c74object>
